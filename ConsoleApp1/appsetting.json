@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    //"DefaultConnection": "Server=3.22.54.216;Port=3306;Database=thenford_db;User=root;Password=HwsuM9m!d"
+    //MY SQL server database syntax
+    "DefaultConnection": "Server=localhost;Port=3306;Database=Testing;User=root;Password=Tmotions@08"
+    //"DefaultConnection": "Data Source=192.168.10.210;Initial Catalog=Alchub-Elastic;Integrated Security=False;Persist Security Info=False;User ID=testingdb;Password=Tmotions@425"
+  }
+}
